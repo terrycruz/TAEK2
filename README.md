@@ -41,7 +41,7 @@ git verkefni
 10.tölva 
 
 	|			Linkar															 |        hlutir       |        Verð           |
-	|  -----------------------------------------------------------------------   |   ---------------   |   -----------------   |
+	| ----------------------------------------------------------------------- | --------------- | ----------------- |
 	|  https://www.tl.is/product/carbide-spec-alpha-svartur-raudur:		 	     |       kassi 		   |		 18.990	       |
 	|  https://www.tolvutek.is/vara/inter-tech-argus-series-720w-aflgjafi: 	     |	     Aflgjafi      |         9.990         |
 	|  http://tolvutaekni.is/product_info.php?cPath=28_33_169&products_id=3328:  |       Móðurborð     |         32.900        |
