@@ -39,12 +39,15 @@ git verkefni
 	Mús,lyklaborð og myndavél
 
 10.tölva 
-	https://www.tl.is/product/carbide-spec-alpha-svartur-raudur:		 		kassi 18.995
-	https://www.tolvutek.is/vara/inter-tech-argus-series-720w-aflgjafi: 		Aflgjafi 9.990
-	http://tolvutaekni.is/product_info.php?cPath=28_33_169&products_id=3328:    Móðurborð 32.900
-	https://www.tl.is/product/strix-gtx1080-8gb-3-ara-abyrgd: 		            Skjákort 99.995
-	https://www.tl.is/product/core-i7-7700k-42ghz-s1151-14nm-6mb: 		        örgjörvi 52.995
-	https://www.tl.is/product/16gb-ddr4-2x8gb-2400mhz-svort-vengeance-cl14:     vinslumini 24.995
-	https://www.tl.is/product/120gb-ssd-green-diskur: 			                ssd 8.995
+
+	|			Linkar															 |        hlutir       |        Verð           |
+	|  -----------------------------------------------------------------------   |   ---------------   |   -----------------   |
+	|  https://www.tl.is/product/carbide-spec-alpha-svartur-raudur:		 	     |       kassi 		   |		 18.990	       |
+	|  https://www.tolvutek.is/vara/inter-tech-argus-series-720w-aflgjafi: 	     |	     Aflgjafi      |         9.990         |
+	|  http://tolvutaekni.is/product_info.php?cPath=28_33_169&products_id=3328:  |       Móðurborð     |         32.900        |
+	|  https://www.tl.is/product/strix-gtx1080-8gb-3-ara-abyrgd: 		         |       Skjákort      |         99.995        |
+	|  https://www.tl.is/product/core-i7-7700k-42ghz-s1151-14nm-6mb: 		     |       örgjörvi      |         52.995        |
+	|  https://www.tl.is/product/16gb-ddr4-2x8gb-2400mhz-svort-vengeance-cl14:   |       vinslumini    |         24.995        |
+	|  https://www.tl.is/product/120gb-ssd-green-diskur: 			             |       ssd           |         8.995         |
 
 	Samtals:249.865
